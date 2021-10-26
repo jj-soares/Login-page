@@ -1,0 +1,98 @@
+* {
+    background-color: #FFFFFF;
+    font-family: Roboto;
+}
+
+h1 {
+    margin: 128px 277px 0px 16px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    color: #000000;
+}
+
+p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    display: block;
+    margin: 12px 16px 102px 16px;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+input {
+    display: block;
+    background: #F2F2F7;
+    border-radius: 6px;
+    margin: 0px auto;
+    width: 343px;
+    height: 48px;
+    border: none;
+}
+
+
+input::placeholder {
+    padding-left: 14px;
+    color: #929292;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.password {
+    display: block;
+    margin: 17px 17px 20px 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: right;
+    color: #007AFF;
+    ;
+    text-decoration: none;
+}
+
+.input-pass {
+    margin-top: 12px;
+}
+
+button {
+    background: rgba(0, 0, 0, 0.94);
+    border-radius: 10px;
+    display: block;
+    height: 48px;
+    width: 343px;
+    left: 16px;
+    top: 0px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+    border: none;
+}
+
+.link-Singup {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.51);
+    display: block;
+    margin: 204px 75px 34px 75px;
+    text-align: center;
+    width: 225px;
+    height: 19px;
+    left: 75px;
+    top: 754px;
+    text-decoration: none;
+}
+
+strong {
+    color: #007AFF;
+    ;
+}
